@@ -5,7 +5,7 @@ i build automated systems for people who live in spreadsheets and chaos.
 
 ---
 
-## ⚒️ skills & stack
+skills & stack
 
 - **project mgmt**: asana, trello, jira, agile, pmbok (barely tolerable)
 - **automation**: zapier, integromat, no-code glue, bash scripts
@@ -15,12 +15,12 @@ i build automated systems for people who live in spreadsheets and chaos.
 
 ---
 
-## 🛠️ featured projects
+ featured projects
 
 - 🛰️ [`workflow-pipeline`](https://github.com/your/workflow-pipeline):  
   whatsapp → asana → spreadsheet → chaos destroyed
 
-- 🗃️ [`kami-coop-pm`](https://github.com/your/kami-coop-pm):  
+🗃️ [`kami-coop-pm`](https://github.com/your/kami-coop-pm):  
   full project lifecycle tracker for rural health / finance missions
 
 - ⚙️ [`dotfiles`](https://github.com/your/dotfiles):  
@@ -28,7 +28,7 @@ i build automated systems for people who live in spreadsheets and chaos.
 
 ---
 
-## 🎓 certs & learning
+ certs & learning
 
 - asana workflow specialist (2025)
 - agile scrummaster (simplilearn)
